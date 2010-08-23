@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Limit Post Revisions Network Option
-Plugin URI: http://wordpress.org/extend/plugins/limit-post-revisions-network-option/
+Plugin URI: http://dsader.snowotherway.org/wordpress-plugins/limit-post-revisions-network-option/
 Description: Adds Network SuperAdmin-->Options to limit, or disable, the number of post revisions and autosave interval.
 Author: D. Sader
 Version: 3.0.1
