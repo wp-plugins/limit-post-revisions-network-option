@@ -6,11 +6,11 @@ Requires at least: 3.0
 Tested up to: 3.0.1
 Stable tag: Trunk
 
-An "mu-plugin" to add Network SuperAdmin->Options to limit, or disable, the number of post revisions and set the post autosave interval.
+An "mu-plugin" to add Network Admin->Settings to limit, or disable, the number of post revisions and set the post autosave interval.
 
 == Description ==
 
-An "mu-plugin" to add Network SuperAdmin->Options to limit, or disable, the number of post revisions and set the post autosave interval.
+An "mu-plugin" to add Network Admin->Settings to limit, or disable, the number of post revisions and set the post autosave interval.
 
 == Installation ==
 
@@ -27,7 +27,7 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1.  Go to SuperAdmin->Options to set "Post Revisions" and "Autosave Interval"
+1.  Go to Network Admin->Settings to set "Post Revisions" and "Autosave Interval"
 
 == Notes ==
 
