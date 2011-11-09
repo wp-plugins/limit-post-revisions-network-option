@@ -17,7 +17,7 @@ An "mu-plugin" to add Network Admin->Settings to limit, or disable, the number o
 This section describes how to install the plugin and get it working.
 
 1. Upload `ds_wp3_limit_revisions.php` to the `/wp-content/mu-plugins/` directory
-2. Go to SuperAdmin->Options to set "Post Revisions" and "Autosave Interval".
+2. Go to Network Admin->Settings to set "Post Revisions" and "Autosave Interval".
 
 == Frequently Asked Questions ==
 
