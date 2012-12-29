@@ -3,7 +3,7 @@ Contributors: dsader
 Donate link: http://dsader.snowotherway.org
 Tags: multisite, network, revisions, post revisions, autosave,
 Requires at least: 3.0
-Tested up to: 3.2.1
+Tested up to: 3.5
 Stable tag: Trunk
 
 An "mu-plugin" to add Network Admin->Settings to limit, or disable, the number of post revisions and set the post autosave interval.
