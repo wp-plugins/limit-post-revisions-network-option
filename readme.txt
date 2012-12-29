@@ -7,7 +7,8 @@ Tested up to: 3.5
 Stable tag: Trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
+Author: dsader
+Author URI: http://profiles.wordpress.org/dsader/
 
 An "mu-plugin" to add Network Admin->Settings to limit, or disable, the number of post revisions and set the post autosave interval.
 
