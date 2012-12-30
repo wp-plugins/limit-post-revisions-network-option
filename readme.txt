@@ -12,7 +12,7 @@ An "mu-plugin" to add Network Admin->Settings to limit, or disable, the number o
 
 == Description ==
 
-An "mu-plugin" to add Network Admin->Settings to limit, or disable, the number of post revisions and set the post autosave interval.
+An "mu-plugin" to add Network->Settings to limit, or disable, the number of post revisions and set the post autosave interval.
 
 == Installation ==
 
